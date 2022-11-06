@@ -1,1 +1,4 @@
 #how to write .gitignore file
+
+#Do not include our binary
+gowebdev.com.exe
